@@ -5,22 +5,6 @@ This project focuses on **UI development** and **responsive design**. Functional
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally:
-
-1. **Ensure Node.js is installed** on your machine.  
-   👉 [Download Node.js](https://nodejs.org/) (LTS recommended)
-
-2. **Clone this repository**
-   ```bash
-   git clone https://github.com/YourUsername/razorpay-ui-clone.git
-   cd razorpay-ui-clone
-   npm install
-   npm run start
-
-Click on the port specified in your terminal
-
 ## ✨ Features
 - Pixel-perfect Razorpay UI
 - Built with **Tailwind CSS** for rapid styling
@@ -45,7 +29,17 @@ Click on the port specified in your terminal
 
 ## 🚀 Getting Started
 
-### Clone the repository
-```bash
-git clone https://github.com/abdullahahmedmurtaza/razorpay-ui-clone.git
-cd razorpay-ui-clone
+Follow these steps to run the project locally:
+
+1. **Ensure Node.js is installed** on your machine.  
+   👉 [Download Node.js](https://nodejs.org/) (LTS recommended)
+
+2. **Clone this repository**
+   ```bash
+   git clone https://github.com/YourUsername/razorpay-ui-clone.git
+   cd razorpay-ui-clone
+   npm install
+   npm run start
+
+3. **Click on the port specified in your terminal**
+
