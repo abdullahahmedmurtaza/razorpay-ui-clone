@@ -34,5 +34,3 @@ This project focuses on **UI development** and **responsive design**. Functional
    git clone https://github.com/abdullahahmedmurtaza/razorpay-ui-clone.git
    cd razorpay-ui-clone
 
-3. **Click on the port specified in your terminal**
-
